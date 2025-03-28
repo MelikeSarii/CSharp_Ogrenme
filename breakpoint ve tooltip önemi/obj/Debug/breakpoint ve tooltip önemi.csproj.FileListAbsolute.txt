@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\breakpoint ve tooltip önemi\bin\Debug\breakpoint ve tooltip önemi.exe.config
+C:\Users\melik\source\repos\başlıyoz\breakpoint ve tooltip önemi\bin\Debug\breakpoint ve tooltip önemi.exe
+C:\Users\melik\source\repos\başlıyoz\breakpoint ve tooltip önemi\bin\Debug\breakpoint ve tooltip önemi.pdb
+C:\Users\melik\source\repos\başlıyoz\breakpoint ve tooltip önemi\obj\Debug\breakpoint ve tooltip önemi.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\breakpoint ve tooltip önemi\obj\Debug\breakpoint ve tooltip önemi.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\breakpoint ve tooltip önemi\obj\Debug\breakpoint ve tooltip önemi.exe
+C:\Users\melik\source\repos\başlıyoz\breakpoint ve tooltip önemi\obj\Debug\breakpoint ve tooltip önemi.pdb

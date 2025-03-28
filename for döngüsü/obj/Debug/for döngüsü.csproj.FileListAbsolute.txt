@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\for döngüsü\bin\Debug\for döngüsü.exe.config
+C:\Users\melik\source\repos\başlıyoz\for döngüsü\bin\Debug\for döngüsü.exe
+C:\Users\melik\source\repos\başlıyoz\for döngüsü\bin\Debug\for döngüsü.pdb
+C:\Users\melik\source\repos\başlıyoz\for döngüsü\obj\Debug\for döngüsü.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\for döngüsü\obj\Debug\for döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\for döngüsü\obj\Debug\for döngüsü.exe
+C:\Users\melik\source\repos\başlıyoz\for döngüsü\obj\Debug\for döngüsü.pdb

@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\kullanıcı giriş uygulaması (login)\bin\Debug\kullanıcı giriş uygulaması (login).exe.config
+C:\Users\melik\source\repos\başlıyoz\kullanıcı giriş uygulaması (login)\bin\Debug\kullanıcı giriş uygulaması (login).exe
+C:\Users\melik\source\repos\başlıyoz\kullanıcı giriş uygulaması (login)\bin\Debug\kullanıcı giriş uygulaması (login).pdb
+C:\Users\melik\source\repos\başlıyoz\kullanıcı giriş uygulaması (login)\obj\Debug\kullanıcı giriş uygulaması (login).csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\kullanıcı giriş uygulaması (login)\obj\Debug\kullanıcı giriş uygulaması (login).csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\kullanıcı giriş uygulaması (login)\obj\Debug\kullanıcı giriş uygulaması (login).exe
+C:\Users\melik\source\repos\başlıyoz\kullanıcı giriş uygulaması (login)\obj\Debug\kullanıcı giriş uygulaması (login).pdb

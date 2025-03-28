@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\char ve string\bin\Debug\char ve string.exe.config
+C:\Users\melik\source\repos\başlıyoz\char ve string\bin\Debug\char ve string.exe
+C:\Users\melik\source\repos\başlıyoz\char ve string\bin\Debug\char ve string.pdb
+C:\Users\melik\source\repos\başlıyoz\char ve string\obj\Debug\char ve string.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\char ve string\obj\Debug\char ve string.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\char ve string\obj\Debug\char ve string.exe
+C:\Users\melik\source\repos\başlıyoz\char ve string\obj\Debug\char ve string.pdb

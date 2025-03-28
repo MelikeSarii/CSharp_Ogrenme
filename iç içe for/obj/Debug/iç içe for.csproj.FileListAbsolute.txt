@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\iç içe for\bin\Debug\iç içe for.exe.config
+C:\Users\melik\source\repos\başlıyoz\iç içe for\bin\Debug\iç içe for.exe
+C:\Users\melik\source\repos\başlıyoz\iç içe for\bin\Debug\iç içe for.pdb
+C:\Users\melik\source\repos\başlıyoz\iç içe for\obj\Debug\iç içe for.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\iç içe for\obj\Debug\iç içe for.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\iç içe for\obj\Debug\iç içe for.exe
+C:\Users\melik\source\repos\başlıyoz\iç içe for\obj\Debug\iç içe for.pdb

@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\diziler için kullanılan for eachn döngüsü\bin\Debug\diziler için kullanılan for eachn döngüsü.exe.config
+C:\Users\melik\source\repos\başlıyoz\diziler için kullanılan for eachn döngüsü\bin\Debug\diziler için kullanılan for eachn döngüsü.exe
+C:\Users\melik\source\repos\başlıyoz\diziler için kullanılan for eachn döngüsü\bin\Debug\diziler için kullanılan for eachn döngüsü.pdb
+C:\Users\melik\source\repos\başlıyoz\diziler için kullanılan for eachn döngüsü\obj\Debug\diziler için kullanılan for eachn döngüsü.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\diziler için kullanılan for eachn döngüsü\obj\Debug\diziler için kullanılan for eachn döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\diziler için kullanılan for eachn döngüsü\obj\Debug\diziler için kullanılan for eachn döngüsü.exe
+C:\Users\melik\source\repos\başlıyoz\diziler için kullanılan for eachn döngüsü\obj\Debug\diziler için kullanılan for eachn döngüsü.pdb

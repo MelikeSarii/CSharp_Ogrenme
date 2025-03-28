@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\girilen sayı çigt mi tek mi diziler örneği\bin\Debug\girilen sayı çigt mi tek mi diziler örneği.exe.config
+C:\Users\melik\source\repos\başlıyoz\girilen sayı çigt mi tek mi diziler örneği\bin\Debug\girilen sayı çigt mi tek mi diziler örneği.exe
+C:\Users\melik\source\repos\başlıyoz\girilen sayı çigt mi tek mi diziler örneği\bin\Debug\girilen sayı çigt mi tek mi diziler örneği.pdb
+C:\Users\melik\source\repos\başlıyoz\girilen sayı çigt mi tek mi diziler örneği\obj\Debug\girilen sayı çigt mi tek mi diziler örneği.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\girilen sayı çigt mi tek mi diziler örneği\obj\Debug\girilen sayı çigt mi tek mi diziler örneği.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\girilen sayı çigt mi tek mi diziler örneği\obj\Debug\girilen sayı çigt mi tek mi diziler örneği.exe
+C:\Users\melik\source\repos\başlıyoz\girilen sayı çigt mi tek mi diziler örneği\obj\Debug\girilen sayı çigt mi tek mi diziler örneği.pdb

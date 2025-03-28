@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\methodlar\bin\Debug\methodlar.exe.config
+C:\Users\melik\source\repos\başlıyoz\methodlar\bin\Debug\methodlar.exe
+C:\Users\melik\source\repos\başlıyoz\methodlar\bin\Debug\methodlar.pdb
+C:\Users\melik\source\repos\başlıyoz\methodlar\obj\Debug\methodlar.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\methodlar\obj\Debug\methodlar.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\methodlar\obj\Debug\methodlar.exe
+C:\Users\melik\source\repos\başlıyoz\methodlar\obj\Debug\methodlar.pdb

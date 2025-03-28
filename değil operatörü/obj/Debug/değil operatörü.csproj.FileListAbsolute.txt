@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\değil operatörü\bin\Debug\değil operatörü.exe.config
+C:\Users\melik\source\repos\başlıyoz\değil operatörü\bin\Debug\değil operatörü.exe
+C:\Users\melik\source\repos\başlıyoz\değil operatörü\bin\Debug\değil operatörü.pdb
+C:\Users\melik\source\repos\başlıyoz\değil operatörü\obj\Debug\değil operatörü.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\değil operatörü\obj\Debug\değil operatörü.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\değil operatörü\obj\Debug\değil operatörü.exe
+C:\Users\melik\source\repos\başlıyoz\değil operatörü\obj\Debug\değil operatörü.pdb

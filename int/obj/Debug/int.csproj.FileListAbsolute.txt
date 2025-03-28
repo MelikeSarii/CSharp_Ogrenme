@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\int\obj\Debug\int.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\int\obj\Debug\int.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\int\bin\Debug\@int.exe.config
+C:\Users\melik\source\repos\başlıyoz\int\bin\Debug\@int.exe
+C:\Users\melik\source\repos\başlıyoz\int\bin\Debug\@int.pdb
+C:\Users\melik\source\repos\başlıyoz\int\obj\Debug\@int.exe
+C:\Users\melik\source\repos\başlıyoz\int\obj\Debug\@int.pdb

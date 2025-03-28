@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\break ve continue\bin\Debug\break ve continue.exe.config
+C:\Users\melik\source\repos\başlıyoz\break ve continue\bin\Debug\break ve continue.exe
+C:\Users\melik\source\repos\başlıyoz\break ve continue\bin\Debug\break ve continue.pdb
+C:\Users\melik\source\repos\başlıyoz\break ve continue\obj\Debug\break ve continue.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\break ve continue\obj\Debug\break ve continue.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\break ve continue\obj\Debug\break ve continue.exe
+C:\Users\melik\source\repos\başlıyoz\break ve continue\obj\Debug\break ve continue.pdb

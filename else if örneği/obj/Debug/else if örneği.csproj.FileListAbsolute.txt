@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\else if örneği\bin\Debug\else if örneği.exe.config
+C:\Users\melik\source\repos\başlıyoz\else if örneği\bin\Debug\else if örneği.exe
+C:\Users\melik\source\repos\başlıyoz\else if örneği\bin\Debug\else if örneği.pdb
+C:\Users\melik\source\repos\başlıyoz\else if örneği\obj\Debug\else if örneği.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\else if örneği\obj\Debug\else if örneği.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\else if örneği\obj\Debug\else if örneği.exe
+C:\Users\melik\source\repos\başlıyoz\else if örneği\obj\Debug\else if örneği.pdb

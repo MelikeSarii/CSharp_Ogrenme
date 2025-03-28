@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\object veri tipi\bin\Debug\object veri tipi.exe.config
+C:\Users\melik\source\repos\başlıyoz\object veri tipi\bin\Debug\object veri tipi.exe
+C:\Users\melik\source\repos\başlıyoz\object veri tipi\bin\Debug\object veri tipi.pdb
+C:\Users\melik\source\repos\başlıyoz\object veri tipi\obj\Debug\object veri tipi.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\object veri tipi\obj\Debug\object veri tipi.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\object veri tipi\obj\Debug\object veri tipi.exe
+C:\Users\melik\source\repos\başlıyoz\object veri tipi\obj\Debug\object veri tipi.pdb

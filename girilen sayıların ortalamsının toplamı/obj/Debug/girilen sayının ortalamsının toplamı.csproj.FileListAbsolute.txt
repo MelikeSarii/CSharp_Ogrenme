@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\girilen sayıların ortalamsının toplamı\bin\Debug\girilen sayıların ortalamsının toplamı.exe.config
+C:\Users\melik\source\repos\başlıyoz\girilen sayıların ortalamsının toplamı\bin\Debug\girilen sayıların ortalamsının toplamı.exe
+C:\Users\melik\source\repos\başlıyoz\girilen sayıların ortalamsının toplamı\bin\Debug\girilen sayıların ortalamsının toplamı.pdb
+C:\Users\melik\source\repos\başlıyoz\girilen sayıların ortalamsının toplamı\obj\Debug\girilen sayının ortalamsının toplamı.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\girilen sayıların ortalamsının toplamı\obj\Debug\girilen sayının ortalamsının toplamı.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\girilen sayıların ortalamsının toplamı\obj\Debug\girilen sayıların ortalamsının toplamı.exe
+C:\Users\melik\source\repos\başlıyoz\girilen sayıların ortalamsının toplamı\obj\Debug\girilen sayıların ortalamsının toplamı.pdb

@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\çarpma bölme\bin\Debug\çarpma bölme.exe.config
+C:\Users\melik\source\repos\başlıyoz\çarpma bölme\bin\Debug\çarpma bölme.exe
+C:\Users\melik\source\repos\başlıyoz\çarpma bölme\bin\Debug\çarpma bölme.pdb
+C:\Users\melik\source\repos\başlıyoz\çarpma bölme\obj\Debug\çarpma bölme.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\çarpma bölme\obj\Debug\çarpma bölme.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\çarpma bölme\obj\Debug\çarpma bölme.exe
+C:\Users\melik\source\repos\başlıyoz\çarpma bölme\obj\Debug\çarpma bölme.pdb

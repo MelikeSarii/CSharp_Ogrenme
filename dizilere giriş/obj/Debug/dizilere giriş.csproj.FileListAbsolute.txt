@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\dizilere giriş\bin\Debug\dizilere giriş.exe.config
+C:\Users\melik\source\repos\başlıyoz\dizilere giriş\bin\Debug\dizilere giriş.exe
+C:\Users\melik\source\repos\başlıyoz\dizilere giriş\bin\Debug\dizilere giriş.pdb
+C:\Users\melik\source\repos\başlıyoz\dizilere giriş\obj\Debug\dizilere giriş.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\dizilere giriş\obj\Debug\dizilere giriş.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\dizilere giriş\obj\Debug\dizilere giriş.exe
+C:\Users\melik\source\repos\başlıyoz\dizilere giriş\obj\Debug\dizilere giriş.pdb

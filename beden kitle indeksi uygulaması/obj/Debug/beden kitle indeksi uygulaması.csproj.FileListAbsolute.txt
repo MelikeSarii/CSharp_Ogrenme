@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\beden kitle indeksi uygulaması\bin\Debug\beden kitle indeksi uygulaması.exe.config
+C:\Users\melik\source\repos\başlıyoz\beden kitle indeksi uygulaması\bin\Debug\beden kitle indeksi uygulaması.exe
+C:\Users\melik\source\repos\başlıyoz\beden kitle indeksi uygulaması\bin\Debug\beden kitle indeksi uygulaması.pdb
+C:\Users\melik\source\repos\başlıyoz\beden kitle indeksi uygulaması\obj\Debug\beden kitle indeksi uygulaması.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\beden kitle indeksi uygulaması\obj\Debug\beden kitle indeksi uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\beden kitle indeksi uygulaması\obj\Debug\beden kitle indeksi uygulaması.exe
+C:\Users\melik\source\repos\başlıyoz\beden kitle indeksi uygulaması\obj\Debug\beden kitle indeksi uygulaması.pdb

@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\mod alma\bin\Debug\mod alma.exe.config
+C:\Users\melik\source\repos\başlıyoz\mod alma\bin\Debug\mod alma.exe
+C:\Users\melik\source\repos\başlıyoz\mod alma\bin\Debug\mod alma.pdb
+C:\Users\melik\source\repos\başlıyoz\mod alma\obj\Debug\mod alma.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\mod alma\obj\Debug\mod alma.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\mod alma\obj\Debug\mod alma.exe
+C:\Users\melik\source\repos\başlıyoz\mod alma\obj\Debug\mod alma.pdb

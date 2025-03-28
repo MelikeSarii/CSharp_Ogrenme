@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\karar yapıları if else\bin\Debug\karar yapıları if else.exe.config
+C:\Users\melik\source\repos\başlıyoz\karar yapıları if else\bin\Debug\karar yapıları if else.exe
+C:\Users\melik\source\repos\başlıyoz\karar yapıları if else\bin\Debug\karar yapıları if else.pdb
+C:\Users\melik\source\repos\başlıyoz\karar yapıları if else\obj\Debug\karar yapıları if else.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\karar yapıları if else\obj\Debug\karar yapıları if else.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\karar yapıları if else\obj\Debug\karar yapıları if else.exe
+C:\Users\melik\source\repos\başlıyoz\karar yapıları if else\obj\Debug\karar yapıları if else.pdb

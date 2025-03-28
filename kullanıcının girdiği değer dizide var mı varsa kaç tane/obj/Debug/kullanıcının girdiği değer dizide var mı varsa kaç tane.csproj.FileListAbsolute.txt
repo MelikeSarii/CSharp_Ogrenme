@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\kullanıcının girdiği değer dizide var mı varsa kaç tane\bin\Debug\kullanıcının girdiği değer dizide var mı varsa kaç tane.exe.config
+C:\Users\melik\source\repos\başlıyoz\kullanıcının girdiği değer dizide var mı varsa kaç tane\bin\Debug\kullanıcının girdiği değer dizide var mı varsa kaç tane.exe
+C:\Users\melik\source\repos\başlıyoz\kullanıcının girdiği değer dizide var mı varsa kaç tane\bin\Debug\kullanıcının girdiği değer dizide var mı varsa kaç tane.pdb
+C:\Users\melik\source\repos\başlıyoz\kullanıcının girdiği değer dizide var mı varsa kaç tane\obj\Debug\kullanıcının girdiği değer dizide var mı varsa kaç tane.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\kullanıcının girdiği değer dizide var mı varsa kaç tane\obj\Debug\kullanıcının girdiği değer dizide var mı varsa kaç tane.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\kullanıcının girdiği değer dizide var mı varsa kaç tane\obj\Debug\kullanıcının girdiği değer dizide var mı varsa kaç tane.exe
+C:\Users\melik\source\repos\başlıyoz\kullanıcının girdiği değer dizide var mı varsa kaç tane\obj\Debug\kullanıcının girdiği değer dizide var mı varsa kaç tane.pdb

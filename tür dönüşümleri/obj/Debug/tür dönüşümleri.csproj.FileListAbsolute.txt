@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\tür dönüşümleri\bin\Debug\tür dönüşümleri.exe.config
+C:\Users\melik\source\repos\başlıyoz\tür dönüşümleri\bin\Debug\tür dönüşümleri.exe
+C:\Users\melik\source\repos\başlıyoz\tür dönüşümleri\bin\Debug\tür dönüşümleri.pdb
+C:\Users\melik\source\repos\başlıyoz\tür dönüşümleri\obj\Debug\tür dönüşümleri.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\tür dönüşümleri\obj\Debug\tür dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\tür dönüşümleri\obj\Debug\tür dönüşümleri.exe
+C:\Users\melik\source\repos\başlıyoz\tür dönüşümleri\obj\Debug\tür dönüşümleri.pdb

@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\arttırmaa ve azaltma\bin\Debug\arttırmaa ve azaltma.exe.config
+C:\Users\melik\source\repos\başlıyoz\arttırmaa ve azaltma\bin\Debug\arttırmaa ve azaltma.exe
+C:\Users\melik\source\repos\başlıyoz\arttırmaa ve azaltma\bin\Debug\arttırmaa ve azaltma.pdb
+C:\Users\melik\source\repos\başlıyoz\arttırmaa ve azaltma\obj\Debug\arttırmaa ve azaltma.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\arttırmaa ve azaltma\obj\Debug\arttırmaa ve azaltma.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\arttırmaa ve azaltma\obj\Debug\arttırmaa ve azaltma.exe
+C:\Users\melik\source\repos\başlıyoz\arttırmaa ve azaltma\obj\Debug\arttırmaa ve azaltma.pdb

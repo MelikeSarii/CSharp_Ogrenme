@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\dizi elemanlarını kullanıcıdan alma\bin\Debug\dizi elemanlarını kullanıcıdan alma.exe.config
+C:\Users\melik\source\repos\başlıyoz\dizi elemanlarını kullanıcıdan alma\bin\Debug\dizi elemanlarını kullanıcıdan alma.exe
+C:\Users\melik\source\repos\başlıyoz\dizi elemanlarını kullanıcıdan alma\bin\Debug\dizi elemanlarını kullanıcıdan alma.pdb
+C:\Users\melik\source\repos\başlıyoz\dizi elemanlarını kullanıcıdan alma\obj\Debug\dizi elemanlarını kullanıcıdan alma.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\dizi elemanlarını kullanıcıdan alma\obj\Debug\dizi elemanlarını kullanıcıdan alma.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\dizi elemanlarını kullanıcıdan alma\obj\Debug\dizi elemanlarını kullanıcıdan alma.exe
+C:\Users\melik\source\repos\başlıyoz\dizi elemanlarını kullanıcıdan alma\obj\Debug\dizi elemanlarını kullanıcıdan alma.pdb

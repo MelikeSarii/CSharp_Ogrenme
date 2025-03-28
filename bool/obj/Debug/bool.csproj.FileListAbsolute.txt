@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\bool\bin\Debug\@bool.exe.config
+C:\Users\melik\source\repos\başlıyoz\bool\bin\Debug\@bool.exe
+C:\Users\melik\source\repos\başlıyoz\bool\bin\Debug\@bool.pdb
+C:\Users\melik\source\repos\başlıyoz\bool\obj\Debug\bool.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\bool\obj\Debug\bool.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\bool\obj\Debug\@bool.exe
+C:\Users\melik\source\repos\başlıyoz\bool\obj\Debug\@bool.pdb

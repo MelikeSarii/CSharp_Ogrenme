@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\do while\bin\Debug\do while.exe.config
+C:\Users\melik\source\repos\başlıyoz\do while\bin\Debug\do while.exe
+C:\Users\melik\source\repos\başlıyoz\do while\bin\Debug\do while.pdb
+C:\Users\melik\source\repos\başlıyoz\do while\obj\Debug\do while.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\do while\obj\Debug\do while.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\do while\obj\Debug\do while.exe
+C:\Users\melik\source\repos\başlıyoz\do while\obj\Debug\do while.pdb

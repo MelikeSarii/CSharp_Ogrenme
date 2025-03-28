@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\parametre alıp değer döndürmeyen\bin\Debug\parametre alıp değer döndürmeyen.exe.config
+C:\Users\melik\source\repos\başlıyoz\parametre alıp değer döndürmeyen\bin\Debug\parametre alıp değer döndürmeyen.exe
+C:\Users\melik\source\repos\başlıyoz\parametre alıp değer döndürmeyen\bin\Debug\parametre alıp değer döndürmeyen.pdb
+C:\Users\melik\source\repos\başlıyoz\parametre alıp değer döndürmeyen\obj\Debug\parametre alıp değer döndürmeyen.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\parametre alıp değer döndürmeyen\obj\Debug\parametre alıp değer döndürmeyen.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\parametre alıp değer döndürmeyen\obj\Debug\parametre alıp değer döndürmeyen.exe
+C:\Users\melik\source\repos\başlıyoz\parametre alıp değer döndürmeyen\obj\Debug\parametre alıp değer döndürmeyen.pdb

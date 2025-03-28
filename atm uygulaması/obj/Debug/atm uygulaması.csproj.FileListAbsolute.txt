@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\atm uygulaması\bin\Debug\atm uygulaması.exe.config
+C:\Users\melik\source\repos\başlıyoz\atm uygulaması\bin\Debug\atm uygulaması.exe
+C:\Users\melik\source\repos\başlıyoz\atm uygulaması\bin\Debug\atm uygulaması.pdb
+C:\Users\melik\source\repos\başlıyoz\atm uygulaması\obj\Debug\atm uygulaması.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\atm uygulaması\obj\Debug\atm uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\atm uygulaması\obj\Debug\atm uygulaması.exe
+C:\Users\melik\source\repos\başlıyoz\atm uygulaması\obj\Debug\atm uygulaması.pdb

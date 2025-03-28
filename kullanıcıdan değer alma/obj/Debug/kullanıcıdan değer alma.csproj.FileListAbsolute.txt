@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\kullanıcıdan değer alma\bin\Debug\kullanıcıdan değer alma.exe.config
+C:\Users\melik\source\repos\başlıyoz\kullanıcıdan değer alma\bin\Debug\kullanıcıdan değer alma.exe
+C:\Users\melik\source\repos\başlıyoz\kullanıcıdan değer alma\bin\Debug\kullanıcıdan değer alma.pdb
+C:\Users\melik\source\repos\başlıyoz\kullanıcıdan değer alma\obj\Debug\kullanıcıdan değer alma.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\kullanıcıdan değer alma\obj\Debug\kullanıcıdan değer alma.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\kullanıcıdan değer alma\obj\Debug\kullanıcıdan değer alma.exe
+C:\Users\melik\source\repos\başlıyoz\kullanıcıdan değer alma\obj\Debug\kullanıcıdan değer alma.pdb

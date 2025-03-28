@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\float ve double\bin\Debug\float ve double.exe.config
+C:\Users\melik\source\repos\başlıyoz\float ve double\bin\Debug\float ve double.exe
+C:\Users\melik\source\repos\başlıyoz\float ve double\bin\Debug\float ve double.pdb
+C:\Users\melik\source\repos\başlıyoz\float ve double\obj\Debug\float ve double.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\float ve double\obj\Debug\float ve double.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\float ve double\obj\Debug\float ve double.exe
+C:\Users\melik\source\repos\başlıyoz\float ve double\obj\Debug\float ve double.pdb

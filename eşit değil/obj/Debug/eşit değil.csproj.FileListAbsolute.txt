@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\eşit değil\bin\Debug\eşit değil.exe.config
+C:\Users\melik\source\repos\başlıyoz\eşit değil\bin\Debug\eşit değil.exe
+C:\Users\melik\source\repos\başlıyoz\eşit değil\bin\Debug\eşit değil.pdb
+C:\Users\melik\source\repos\başlıyoz\eşit değil\obj\Debug\eşit değil.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\eşit değil\obj\Debug\eşit değil.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\eşit değil\obj\Debug\eşit değil.exe
+C:\Users\melik\source\repos\başlıyoz\eşit değil\obj\Debug\eşit değil.pdb

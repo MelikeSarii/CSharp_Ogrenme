@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\switch case yapısı\bin\Debug\switch case yapısı.exe.config
+C:\Users\melik\source\repos\başlıyoz\switch case yapısı\bin\Debug\switch case yapısı.exe
+C:\Users\melik\source\repos\başlıyoz\switch case yapısı\bin\Debug\switch case yapısı.pdb
+C:\Users\melik\source\repos\başlıyoz\switch case yapısı\obj\Debug\switch case yapısı.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\switch case yapısı\obj\Debug\switch case yapısı.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\switch case yapısı\obj\Debug\switch case yapısı.exe
+C:\Users\melik\source\repos\başlıyoz\switch case yapısı\obj\Debug\switch case yapısı.pdb

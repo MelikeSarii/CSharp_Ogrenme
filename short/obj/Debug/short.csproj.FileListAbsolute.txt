@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\short\bin\Debug\@short.exe.config
+C:\Users\melik\source\repos\başlıyoz\short\bin\Debug\@short.exe
+C:\Users\melik\source\repos\başlıyoz\short\bin\Debug\@short.pdb
+C:\Users\melik\source\repos\başlıyoz\short\obj\Debug\short.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\short\obj\Debug\short.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\short\obj\Debug\@short.exe
+C:\Users\melik\source\repos\başlıyoz\short\obj\Debug\@short.pdb

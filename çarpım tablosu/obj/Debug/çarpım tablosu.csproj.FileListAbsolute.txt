@@ -1,0 +1,7 @@
+C:\Users\melik\source\repos\başlıyoz\çarpım tablosu\bin\Debug\çarpım tablosu.exe.config
+C:\Users\melik\source\repos\başlıyoz\çarpım tablosu\bin\Debug\çarpım tablosu.exe
+C:\Users\melik\source\repos\başlıyoz\çarpım tablosu\bin\Debug\çarpım tablosu.pdb
+C:\Users\melik\source\repos\başlıyoz\çarpım tablosu\obj\Debug\çarpım tablosu.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\başlıyoz\çarpım tablosu\obj\Debug\çarpım tablosu.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\başlıyoz\çarpım tablosu\obj\Debug\çarpım tablosu.exe
+C:\Users\melik\source\repos\başlıyoz\çarpım tablosu\obj\Debug\çarpım tablosu.pdb

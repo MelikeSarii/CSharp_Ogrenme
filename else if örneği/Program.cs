@@ -36,6 +36,7 @@ namespace else_if_örneği
                 Console.ReadKey();
             }
             else 
+            
             {
                 Console.WriteLine("c");
                 Console.ReadKey();
